@@ -50,6 +50,7 @@ Selecting your relays **can be an important decision** for some stakers. You sho
 | [Eden Network](https://v2.docs.edennetwork.io/) |  | `https://0xb1d229d9c21298a87846c7022ebeef277dfc321fe674fa45312e20b5b6c400bfde9383f801848d7837ed5fc449083a12@relay-goerli.edennetwork.io` |
 | [Manifold](https://securerpc.com/) |  | `https://0x8a72a5ec3e2909fff931c8b42c9e0e6c6e660ac48a98016777fc63a73316b3ffb5c622495106277f8dbcc17a06e92ca3@goerli-relay.securerpc.com/` |
 | [Aestus](https://aestus.live) |  | `https://0xab78bf8c781c58078c3beb5710c57940874dd96aef2835e7742c866b4c7c0406754376c2c8285a36c630346aa5c5f833@goerli.aestus.live` |
+| [Agnostic](https://goerli.agnostic-relay.net/) |  | `https://0xa6bcad37b5d647152a93c2807d8a56055f1e0d7480eb6505d46edc21593e400f0f13738bf2e892f85946234629a3036a@goerli.agnostic-relay.net` |
 
 # Configuring MEV boost software
 
